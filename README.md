@@ -1,3 +1,7 @@
+Forked from phongphan/csZBar to resolve problem of using cszBar with iOS 11
+
+
+
 **This repository is looking for a maintainer! If you believe you are the right person, please [leave a comment](https://github.com/tjwoon/csZBar/issues/60)!**
 
 
